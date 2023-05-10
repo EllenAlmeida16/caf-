@@ -7,14 +7,16 @@
     padding: 24px 0;
 }
 .cabecalho-imagem{
-    width: 20%;
+    width: 85%;
 }
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
 }
-*{
-    margin: 0;
-    padding: 0;
+.Cafeteria-Tematica-imagem{
+    width:40%;
+}
+.Cafeteria-Tematica{
+    background-image: linear-gradient(#FFFFFF);
 }
