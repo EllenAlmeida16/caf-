@@ -7,7 +7,7 @@
     padding: 24px 0;
 }
 .cabecalho-imagem{
-    width: 85%;
+    width: 35%;
 }
 .cabecalho-lista-item{
     display: inline-block;
@@ -15,8 +15,16 @@
     font-size: 24px;
 }
 .Cafeteria-Tematica-imagem{
-    width:40%;
+    width: 25%;
 }
 .Cafeteria-Tematica{
     background-image: linear-gradient(#FFFFFF);
+    color: black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.Cafeteria-Tematica-conteudo{
+    width: 80%;
 }
