@@ -20,11 +20,14 @@
 .Cafeteria-Tematica{
     background-image: linear-gradient(#FFFFFF);
     color: black;
-    display:flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 .Cafeteria-Tematica-conteudo{
-    width: 80%;
+    width: 72%;
+}
+body{
+    font-family: 'EB Garamond', serif;
 }
